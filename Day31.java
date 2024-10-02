@@ -1,4 +1,4 @@
-public class penegasan {
+public class day31 {
     public static void main(String[]args){
         String x ="533";
         int y=
