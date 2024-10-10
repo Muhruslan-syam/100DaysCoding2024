@@ -1,4 +1,4 @@
-package pelatihan;
+package penugasan;
 
 public class Main {
     
