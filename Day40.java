@@ -7,7 +7,7 @@ public class Main {
         a = 9;
          System.out.print(a>=3);
         
-        
+        System.out.print(a<=3);
         
     }
     
