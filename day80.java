@@ -5,6 +5,6 @@ public class b{
         String s = "       iyaaaaaaaa      ";
         String b = s.trim();
         System.out.println("Kata asli: '" + s + "'");
-        System.out.println("Kata yang sudah di ibuh: '" + trimmedText + "'");
+        System.out.println("Kata yang sudah di ibuh: '" + b + "'");
     }
 }
