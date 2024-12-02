@@ -8,7 +8,7 @@ public class latihan {
         String a = sc.nextLine();
         
         System.out.print("Masukkan kata kedua: ");
-        String b = scannerl.nextLine();
+        String b = sc.nextLine();
         
         
         if (a.equals("you") && b .equals("i")) {
